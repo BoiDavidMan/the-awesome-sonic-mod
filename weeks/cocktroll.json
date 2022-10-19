@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"cocktroll",
+			"sikelops",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "void",
+	"difficulties": "regular, lowded",
+	"weekCharacters": [
+		"empty",
+		"sikelops",
+		"empty"
+	],
+	"storyName": "uuuuuuuhhhh",
+	"weekName": "cocktroll",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"micheal",
+			"mike",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "splitfield",
+	"difficulties": "regular, weed",
+	"weekCharacters": [
+		"mike",
+		"empty",
+		"weed"
+	],
+	"storyName": "moke weed",
+	"weekName": "micheal",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hiddenUntilUnlocked": false
+}
