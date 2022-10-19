@@ -1,0 +1,6 @@
+{
+	"name": "the awesome sonic mod",
+	"description": "a sarcastic parody of sonic exe + a few original songs",
+	"restart":false,
+	"color": [85, 0, 255]
+}
